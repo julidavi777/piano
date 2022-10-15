@@ -18,14 +18,16 @@ body{
     
 }
 .description{
-    color: rgb(187, 48, 38);;
-    margin: -60px auto;
+    color: rgba(158, 54, 47, 0.308);;
     position: absolute;
-    right: 25%;
+    bottom: 25px;
+    width: 500px;
+    left: 50%;
+    margin-left: -250px;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
     ;
     
-    font-size: 25px;
+    font-size: 20px;
     z-index: 4;
 }
 
